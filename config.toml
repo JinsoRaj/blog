@@ -1,4 +1,4 @@
-baseURL = "http://blog.jinsoraj.eu.org/"
+baseURL = "https://blog.jinsoraj.eu.org/"
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
