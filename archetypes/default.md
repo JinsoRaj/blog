@@ -1,6 +1,17 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
+description: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+draft: false
+
+tags: ["test"]
+categories: ["Tech"]
+featuredImage: "/my.png"
+featuredImagePreview: "/my.png"
+
+toc:
+  enable: true
+  auto: true
+
 ---
 
