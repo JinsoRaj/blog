@@ -1,6 +1,6 @@
 ---
-title: "Kill Process Running on a Port - Linux"
-description: "Kill Process Running on a Port - Linux"
+title: "Kill process running on a port - Linux"
+description: "Kill process running on a port - Linux"
 date: 2023-03-24T16:25:46+05:30
 draft: false
 

@@ -111,7 +111,7 @@ languageName = "English"
       # LoveIt CHANGED | 0.2.7 title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page (HTML format is supported)
-      subtitle = "Random Posts and Notes"
+      subtitle = "These are stunts performed by a noob, so don't try this at home unless you want to risk a tech disaster!"
       # whether to use typeit animation for subtitle
       typeit = true
     

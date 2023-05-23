@@ -1,6 +1,6 @@
 ---
-title: "Install Nodejs With Nvm in Linux"
-description: "Install Nodejs With Nvm in Linux"
+title: "Install nodejs with NVM in Linux"
+description: "Install nodejs with NVM in Linux"
 date: 2023-03-24T16:23:22+05:30
 draft: false
 
@@ -116,9 +116,13 @@ npm ERR! gyp ERR! not ok
 npm ERR! Build failed
 ```
 
-Solution:
+Solution (Ubuntu):
 
 ```bash
 sudo apt-get install build-essential
 ```
+
+---
+
+Read more: [here](https://stackoverflow.com/questions/14772508/npm-failed-to-install-time-with-make-not-found-error)
 

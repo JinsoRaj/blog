@@ -1,5 +1,5 @@
 ---
-title: "Google Apps Script Library IDs List"
+title: "Google Apps Script library IDs list"
 description: "List of public Google Apps Script Libraries."
 
 date: 2023-03-22T19:14:33+05:30
